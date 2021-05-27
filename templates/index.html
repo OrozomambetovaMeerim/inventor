@@ -11,6 +11,10 @@
     <!-- <div>This page is template</div> -->
     <!-- <h3>{{ my_var }}</h3> -->
     <!-- <div>{{ txt }}</div> -->
+    <form action='/add/' method="POST">
+        <input type="text" name="good">
+        <button>Добавить</button>
+    </form>
     <ol>
         {% for good in goods %}
             <li>{{ good }}</li>

@@ -3,3 +3,10 @@ Keyboard
 Laptop
 Microphone
 Клавиатура
+Флаг
+Рюкзак
+Pen
+Paper
+Desk
+Bag
+Printer
